@@ -1,5 +1,3 @@
-# hello_rectangle
-
 A new Flutter project.
 
 ## Getting Started
